@@ -18,7 +18,7 @@
 
 .cards img {
   margin: 30px;
-  height: 200px;
+  height: 100px;
   width: 60%;
   object-fit: cover;
 }
@@ -29,6 +29,7 @@
 
 .cards p {
   margin-bottom: 30px;
+  padding: 10px;
 }
 
 /*.card-trip-athenes {
