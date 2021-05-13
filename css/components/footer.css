@@ -1,0 +1,35 @@
+.footer {
+  background-color: black;
+  padding: 50px;
+  width: 100%;
+  text-align: center
+}
+
+.footer a {
+  text-align: center;
+}
+
+.footer h3 {
+  color: #797979;
+  font-weight: lighter;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.fab {
+  font-size:40px;
+  color: #6AD58B;
+}
+
+
+
+
+
